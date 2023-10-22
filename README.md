@@ -26,8 +26,6 @@ Now instead of showing the users through the console, it shows the name of each 
 
 Extras:
 
-1. I want a puppy, but I don't know what breed to choose, can you help me?
-
 Using the https://dog.ceo/dog-api/ API.
 
 Print of the breed list of all dogs via console.
@@ -35,6 +33,8 @@ Print of the breed list of all dogs via console.
 Print of a random image of a race through the console.
 
 Print of all images of a specific race via console.
+
+### Languages used:
 
 | HTML | JS |
 
